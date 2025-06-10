@@ -9,7 +9,7 @@ AI Engineer | ML Engineer | Data Scientist
 💻 AI Engineer | Writing code so good, it scares me 🤯 "Why is val\_loss NaN?" – Me, every 3 hours 🚀 Shipping models like SpaceX launches rockets 🎯 Here to make AI less "Artificial" and more "Intelligence"
 
 * 🌍  I'm based in Pakistan
-* 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/areebatahir)
+* 🖥️  See my portfolio at [Linkedin](https://www.linkedin.com/in/areeba-tahir-482573344/)
 * ✉️  You can contact me at [areeba18tahir@gmail.com](mailto:areeba18tahir@gmail.com)
 * 🚀  I'm currently working on [HEN BUN WEBSITE](http://https://github.com/Areeba-Tahir-18/WebDevelopment/blob/main/Assignment2.html)
 * 🧠  I'm learning Generative AI
