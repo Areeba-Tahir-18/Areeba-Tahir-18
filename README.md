@@ -1,4 +1,4 @@
-# 🌸 HI !! I am Areeba , a passionate and goal orientied AI Engineer:
+# 🌸 Hi !! I am Areeba , a passionate AI Engineer
 <br>💬 Ask me about:<br><br>👩‍💻 I’m currently working on: Building AI & Machine Learning projects ,working on  LLMs<br>🤝 I’m looking to collaborate on: Open-source AI/ML project, Data science, NLP, and automation ideas<br>🆘 I’m looking for help with: Scaling ML models and deploying them to production<br>⚡ Fun fact: I enjoy turning complex problems into simple, elegant solution
 
 
