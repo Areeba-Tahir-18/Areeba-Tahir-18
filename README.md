@@ -16,7 +16,7 @@
 
 <br/>
 
-## 🧠 Core Expertise
+## My Expertise
 
 | 🤖 Agentic AI | ⚡ LLM Engineering | 📚 RAG Engineering | 🏗️ AI Systems |
 |---|---|---|---|
@@ -135,11 +135,9 @@
 
 </div>
 
-> ⚠️ **Note on live stats:** the cards above pull from the free public `github-readme-stats.vercel.app` instance, which the maintainer has paused intermittently due to hosting cost/rate-limit issues — this breaks the cards for everyone on GitHub using the default endpoint, not just this repo. The project's own docs now recommend **self-hosting** for reliability. See the `self-hosted-stats-workflow.yml` file below for a drop-in GitHub Action that generates these cards inside your own repo on a daily schedule, so they never depend on a third party's uptime again.
-
 <br/>
 
-## 🌎 Connect
+## 🌎 Let's Connect
 
 <div align="center">
 
@@ -149,7 +147,7 @@
 
 <br/>
 
-<sub>⭐ If you find my work useful, a star goes a long way — thank you!</sub>
+<sub>⭐ Just connect with me ti ship your AI products  — thank you!</sub>
 
 </div>
 
