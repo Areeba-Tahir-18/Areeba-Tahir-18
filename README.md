@@ -147,7 +147,7 @@
 
 <br/>
 
-<sub>⭐ Just connect with me ti ship your AI products  — thank you!</sub>
+<sub>⭐ Just connect with me to ship your AI products  — thank you!</sub>
 
 </div>
 
