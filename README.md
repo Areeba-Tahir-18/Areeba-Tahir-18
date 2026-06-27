@@ -19,15 +19,19 @@
 
 ## My Expertise
 
-| 🤖 Agentic AI | ⚡ LLM Engineering | 📚 RAG Engineering | 🏗️ AI Systems |
-|---|---|---|---|
-| Multi-Agent Systems | Prompt Engineering | Enterprise RAG | Memory Systems |
-| Autonomous AI | Context Engineering | GraphRAG · Hybrid RAG | AI Evaluation |
-| AI Planning & Reasoning | Function & Tool Calling | Semantic · Vector Search | Guardrails |
-| AI Orchestration | Structured Outputs | Knowledge Graphs | Human-in-the-Loop |
-| AI Architecture | OpenAI · Claude · Gemini | Query Expansion | LLMOps |
-| AI Automation | DeepSeek · Ollama · vLLM | Retrieval Optimization | AI Monitoring |
-| AI Infrastructure | Structured Outputs | Doc Parsing & Chunking | AI Observability |
+
+| 🤖 **Agentic AI**         | ⚡ **LLM Engineering**                                   | 📚 **RAG Engineering**      | 🏗️ **AI Systems**      |
+| ------------------------- | ------------------------------------------------------- | --------------------------- | ----------------------- |
+| Multi-Agent Systems       | Prompt Engineering                                      | Enterprise RAG              | Memory Systems          |
+| Autonomous AI             | Context Engineering                                     | GraphRAG                    | AI Evaluation           |
+| AI Planning & Reasoning   | Function & Tool Calling                                 | Hybrid RAG                  | Guardrails              |
+| AI Orchestration          | Structured Outputs                                      | Semantic Search             | Human-in-the-Loop       |
+| AI Workflow Design        | Foundation Models (OpenAI · Claude · Gemini · DeepSeek) | Vector Search               | LLMOps                  |
+| AI Automation             | Model Serving (Ollama · vLLM · TGI)                     | Query Expansion             | AI Monitoring           |
+| Tool-Using Agents         | Output Parsing & Validation                             | Retrieval Optimization      | AI Observability        |
+| Agent Memory & Reflection | Context Window Management                               | Document Parsing & Chunking | AI Infrastructure       |
+| Decision-Making Agents    | Model Fine-tuning                                       | Knowledge Graphs            | AI Deployment & Scaling |
+
 
 <br/>
 
