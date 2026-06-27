@@ -9,8 +9,8 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/🌍%20OPEN%20TO-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" alt="Open To"/>&nbsp;
-<img src="https://img.shields.io/badge/GLOBAL%20OPPORTUNITIES-22c55e?style=for-the-badge&labelColor=22c55e&color=22c55e" alt="Global Opportunities"/>
+<img src="https://img.shields.io/badge/🌍%20OPEN%20TO-facc15?style=for-the-badge&labelColor=facc15&color=facc15" alt="Open To"/>
+<img src="https://img.shields.io/badge/GLOBAL%20OPPORTUNITIES-2563eb?style=for-the-badge&labelColor=2563eb&color=2563eb" alt="Global Opportunities"/>
 
 
 </div>
