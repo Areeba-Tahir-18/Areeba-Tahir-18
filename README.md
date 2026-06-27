@@ -9,7 +9,8 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/%F0%9F%8C%8D%20OPEN%20TO%20GLOBAL%20%26%20REMOTE%20OPPORTUNITIES-22c55e?style=for-the-badge&labelColor=0d1117&color=22c55e" alt="Open to Global and Remote Opportunities"/>
+<img src="https://img.shields.io/badge/%F0%9F%8C%8D%20OPEN%20TO%20GLOBAL%20OPPORTUNITIES-22c55e?style=for-the-badge&labelColor=0d1117&color=22c55e" alt="Open to Global Opportunities"/>
+<img src="https://img.shields.io/badge/%F0%9F%8F%A0%20OPEN%20TO%20REMOTE%20WORK-4ade80?style=for-the-badge&labelColor=0d1117&color=4ade80" alt="Open to Remote Work"/>
 
 </div>
 
