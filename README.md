@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=,100:0a2e1a&height=180&section=header&text=Areeba%20Tahir&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Agentic%20AI%20Engineer%20%E2%80%A2%20LLM%20Engineer%20%E2%80%A2%20AI%20Solutions%20Architect&descAlignY=62&descColor=86efac&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=,100:&height=180&section=header&text=Areeba%20Tahir&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Agentic%20AI%20Engineer%20%E2%80%A2%20LLM%20Engineer%20%E2%80%A2%20AI%20Solutions%20Architect&descAlignY=62&descColor=86efac&animation=fadeIn" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=Areeba-Tahir-18&style=flat-square&color=22c55e&label=profile+views" alt="profile views"/>
 
