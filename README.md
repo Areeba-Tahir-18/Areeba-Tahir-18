@@ -16,6 +16,11 @@
 <img src="https://img.shields.io/badge/RAG_%26_GraphRAG-22c55e?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI_Solutions_Architect-22c55e?style=for-the-badge&logo=cloudsmith&logoColor=white"/>
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🌍_OPEN_TO_REMOTE_WORK-22c55e?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/AVAILABLE_FOR_GLOBAL_OPPORTUNITIES-0a2e1a?style=for-the-badge&logoColor=white"/>
+
 </div>
 
 <br/>
@@ -24,15 +29,50 @@
 
 <div align="center">
 
-| 🤖 Agentic AI | ⚡ LLM Engineering | 📚 RAG Engineering | 🏗️ AI Systems |
-|:---|:---|:---|:---|
-| Multi-Agent Systems | Prompt Engineering | Enterprise RAG | Memory Systems |
-| Autonomous AI | Context Engineering | GraphRAG · Hybrid RAG | AI Evaluation |
-| AI Planning & Reasoning | Function & Tool Calling | Semantic · Vector Search | Guardrails |
-| AI Orchestration | Structured Outputs | Knowledge Graphs | Human-in-the-Loop |
-| AI Architecture | OpenAI · Claude · Gemini | Query Expansion | LLMOps |
-| AI Automation | DeepSeek · Ollama · vLLM | Retrieval Optimization | AI Monitoring |
-| AI Infrastructure | Doc Parsing & Chunking | AI Observability | Knowledge Distillation |
+**🤖 Agentic AI**
+<br/>
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-16a34a?style=flat-square"/>
+<img src="https://img.shields.io/badge/Autonomous_AI-16a34a?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI_Planning_%26_Reasoning-16a34a?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI_Orchestration-16a34a?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI_Architecture-16a34a?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI_Automation-16a34a?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI_Infrastructure-16a34a?style=flat-square"/>
+
+<br/><br/>
+
+**⚡ LLM Engineering**
+<br/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-15803d?style=flat-square"/>
+<img src="https://img.shields.io/badge/Context_Engineering-15803d?style=flat-square"/>
+<img src="https://img.shields.io/badge/Function_%26_Tool_Calling-15803d?style=flat-square"/>
+<img src="https://img.shields.io/badge/Structured_Outputs-15803d?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenAI_·_Claude_·_Gemini-15803d?style=flat-square"/>
+<img src="https://img.shields.io/badge/DeepSeek_·_Ollama_·_vLLM-15803d?style=flat-square"/>
+<img src="https://img.shields.io/badge/Doc_Parsing_%26_Chunking-15803d?style=flat-square"/>
+
+<br/><br/>
+
+**📚 RAG Engineering**
+<br/>
+<img src="https://img.shields.io/badge/Enterprise_RAG-166534?style=flat-square"/>
+<img src="https://img.shields.io/badge/GraphRAG_·_Hybrid_RAG-166534?style=flat-square"/>
+<img src="https://img.shields.io/badge/Semantic_·_Vector_Search-166534?style=flat-square"/>
+<img src="https://img.shields.io/badge/Knowledge_Graphs-166534?style=flat-square"/>
+<img src="https://img.shields.io/badge/Query_Expansion-166534?style=flat-square"/>
+<img src="https://img.shields.io/badge/Retrieval_Optimization-166534?style=flat-square"/>
+
+<br/><br/>
+
+**🏗️ AI Systems**
+<br/>
+<img src="https://img.shields.io/badge/Memory_Systems-14532d?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI_Evaluation-14532d?style=flat-square"/>
+<img src="https://img.shields.io/badge/Guardrails-14532d?style=flat-square"/>
+<img src="https://img.shields.io/badge/Human--in--the--Loop-14532d?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLMOps-14532d?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI_Monitoring-14532d?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI_Observability-14532d?style=flat-square"/>
 
 </div>
 
