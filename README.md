@@ -10,7 +10,7 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/%F0%9F%8C%8D%20OPEN%20TO%20GLOBAL%20OPPORTUNITIES-22c55e?style=for-the-badge&labelColor=0d1117&color=22c55e" alt="Open to Global Opportunities"/>
-<img src="https://komarev.com/ghpvc/?username=Areeba-Tahir-18&style=flat-square&color=22c55e&label=OpenTo+GlobalOpportunities " alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Areeba-Tahir-18&style=flat-square&color=22c55e&label=Open To " alt="Global Opportunities "/>
 
 </div>
 
