@@ -132,7 +132,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Areeba-Tahir-18&theme=github-compact&hide_border=true&bg_color=0d1117&color=facc15&line=facc15&point=ffffff&area=true&area_color=facc15" alt="Contribution Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Areeba-Tahir-18&theme=github-compact&hide_border=true&bg_color=22c55e&color=22c55e&line=facc15&point=ffffff&area=true&area_color=facc15" alt="Contribution Graph" width="95%"/>
 
 </div>
 
