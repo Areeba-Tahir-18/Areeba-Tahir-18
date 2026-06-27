@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=180&section=header&text=Areeba-Tahir-18&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Agentic%20AI%20Engineer%20%E2%80%A2%20LLM%20Engineer%20%E2%80%A2%20AI%20Solutions%20Architect&descAlignY=62&descColor=9ca3af&animation=fadeIn" width="100%"/>
@@ -168,4 +167,3 @@ class AreebaTahir:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d0d0d&height=120&section=footer"/>
 
 </div>
-````
