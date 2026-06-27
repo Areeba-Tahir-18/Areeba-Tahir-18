@@ -125,7 +125,6 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Areeba-Tahir-18&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=4ade80&icon_color=22c55e&text_color=e2e8f0&bg_color=0d1117&cache_seconds=86400" alt="GitHub Stats"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areeba-Tahir-18&layout=compact&langs_count=6&theme=github_dark&hide_border=true&title_color=4ade80&text_color=e2e8f0&bg_color=0d1117&cache_seconds=86400" alt="Top Languages"/>
 
 <br/><br/>
