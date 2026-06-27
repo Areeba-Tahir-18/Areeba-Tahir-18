@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1a0d,100:0a2e1a&height=180&section=header&text=Areeba%20Tahir&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Agentic%20AI%20Engineer%20%E2%80%A2%20LLM%20Engineer%20%E2%80%A2%20AI%20Solutions%20Architect&descAlignY=62&descColor=86efac&animation=fadeIn" width="100%"/>
