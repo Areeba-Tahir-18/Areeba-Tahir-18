@@ -1,161 +1,166 @@
-<!-- =========================
-     Animated Header
-========================= -->
-
-<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
+<h1 align="center">Hi 👋 I'm YOUR NAME</h1>
 
 <h3 align="center">
-AI Engineer • Full-Stack Developer • AI Automation Builder
+Agentic AI Engineer • Multi-Agent Systems • AI Infrastructure
 </h3>
 
 <p align="center">
-Building intelligent applications with LLMs, RAG, AI Agents, and modern web technologies.
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+Engineer;Full-Stack+Developer;LLM+%7C+RAG+%7C+AI+Agents;FastAPI+%7C+React+%7C+Next.js;Always+Learning+New+Technologies" />
+Designing, building, and deploying production-grade Agentic AI systems powered by LLMs, RAG, MCP, and autonomous workflows.
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 What I Build
 
-- 🤖 AI Engineer passionate about solving real-world problems
-- 🧠 Building LLM & RAG applications
-- ⚡ Developing AI Agents & Automation
-- 🌐 Full-Stack Web Developer
-- 📈 Always learning and improving
-- 💡 Open to collaboration on AI projects
+I specialize in building AI systems that can reason, plan, retrieve knowledge, use tools, and execute complex workflows autonomously.
+
+My work focuses on transforming LLMs into reliable production systems using modern AI engineering practices.
 
 ---
 
-# 💼 What I Do
+# 🎯 Core Expertise
 
-| Area | Description |
-|------|-------------|
-| 🤖 AI Engineering | LLM Apps, RAG, AI Agents |
-| 🌍 Full Stack | React, Next.js, FastAPI |
-| ⚙ Backend | Python, REST APIs |
-| ☁ Cloud | Docker, AWS, Vercel |
-| 📊 Databases | PostgreSQL, MongoDB, Redis |
-| 🚀 Deployment | CI/CD, GitHub Actions |
+| Domain | Focus |
+|---------|------|
+| 🤖 Agentic AI | Autonomous AI Agents, Multi-Agent Systems |
+| 🧠 LLM Engineering | GPT-4, Claude, Gemini, OpenAI APIs |
+| 📚 RAG Systems | Hybrid Search, Vector Search, Knowledge Graphs |
+| 🔗 MCP | Model Context Protocol Integration |
+| 🛠 AI Orchestration | LangGraph, CrewAI, AutoGen |
+| ⚡ AI Automation | n8n, Workflows, Tool Calling |
+| 📊 AI Evaluation | Prompt Evaluation, Observability, Guardrails |
+| 🚀 Deployment | Docker, Kubernetes, AWS, CI/CD |
 
 ---
 
-# 🛠 Tech Stack
+# 💼 Current Focus
+
+✔ Production Agentic AI
+
+✔ Multi-Agent Collaboration
+
+✔ AI SaaS Platforms
+
+✔ Enterprise RAG
+
+✔ Tool-Using AI Agents
+
+✔ AI Automation
+
+✔ LLM Infrastructure
+
+✔ AI APIs
+
+✔ AI System Design
+
+---
+
+# 🛠 AI Stack
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp" />
-</p>
+Python • TypeScript • SQL
 
-### Frontend
+### AI Frameworks
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-</p>
+- LangGraph
+- LangChain
+- CrewAI
+- AutoGen
+- OpenAI SDK
+- Anthropic SDK
+- Hugging Face
 
-### Backend
+### Retrieval
 
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
-</p>
+- Pinecone
+- Qdrant
+- Weaviate
+- ChromaDB
+- FAISS
+- Milvus
 
-### Databases
+### LLM Platforms
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase" />
-</p>
+- OpenAI
+- Anthropic Claude
+- Google Gemini
+- DeepSeek
+- Ollama
+- vLLM
 
-### DevOps & Cloud
+### AI Infrastructure
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,aws,vercel" />
-</p>
+- MCP
+- FastAPI
+- Docker
+- Kubernetes
+- Redis
+- PostgreSQL
+- AWS
+- GitHub Actions
 
 ---
 
-# 🤖 AI Stack
+# 🔥 Areas of Interest
 
-OpenAI • Anthropic • LangChain • LangGraph • CrewAI • AutoGen • Hugging Face • Pinecone • ChromaDB • FAISS
+- Agentic AI
+- AI Engineering
+- Multi-Agent Systems
+- AI Architecture
+- AI Infrastructure
+- Enterprise AI
+- AI Automation
+- LLMOps
+- Prompt Engineering
+- RAG Pipelines
+- Context Engineering
+- AI Evaluation
+- Model Routing
+- Tool Calling
+- Memory Systems
+- Vector Databases
 
 ---
 
 # 📈 GitHub Stats
 
-<p align="center">
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
 
 ---
 
 # 📊 Contribution Graph
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&no-frame=true"/>
-
-</p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15)
 
 ---
 
 # 👀 Profile Views
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
 
 ---
 
-# 🌐 Connect With Me
+# 🌍 Connect
 
-<p align="left">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
+- LinkedIn
+- Portfolio
+- Email
 
 ---
 
-# 💬 Quote
-
-> **"Code with purpose. Build with intelligence. Learn without limits."**
-
-⭐ Thanks for visiting my profile!
+> **Building AI agents that don't just chat—they reason, plan, retrieve, and take action.**
