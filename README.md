@@ -142,7 +142,7 @@
 
 <br/>
 
-<sub>⭐ Just connect with me to ship your AI products  — thank you!</sub>
+
 
 </div>
 
