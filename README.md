@@ -132,7 +132,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Areeba-Tahir-18&theme=github-compact&hide_border=true&bg_color=0d1117&color=2563eb&line=facc15&point=ffffff&area=true&area_color=2563eb" alt="Contribution Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Areeba-Tahir-18&theme=github-compact&hide_border=true&bg_color=0d1117&color=facc15&line=facc15&point=ffffff&area=true&area_color=facc15" alt="Contribution Graph" width="95%"/>
 
 </div>
 
@@ -143,8 +143,8 @@
 <div align="center">
 
 <a href="https://github.com/Areeba-Tahir-18"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://linkedin.com/in/REPLACE_ME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:REPLACE_ME@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/areeba-tahir-482573344/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://medium.com/@areeba18tahir"><img src="https://img.shields.io/badge/Medium-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Medium"/></a>
 
 <br/>
 
