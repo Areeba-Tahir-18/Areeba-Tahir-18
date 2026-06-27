@@ -9,8 +9,7 @@
 
 <br/><br/>
 
-<a href="https://github.com/Areeba-Tahir-18"><img src="https://img.shields.io/github/followers/Areeba-Tahir-18?label=Followers&style=for-the-badge&color=22c55e&labelColor=0d1117" alt="GitHub followers"/></a>
-<a href="https://github.com/Areeba-Tahir-18?tab=repositories"><img src="https://img.shields.io/badge/Repositories-19-22c55e?style=for-the-badge&labelColor=0d1117" alt="Repositories"/></a>
+<img src="https://img.shields.io/badge/%F0%9F%8C%8D%20OPEN%20TO%20GLOBAL%20%26%20REMOTE%20OPPORTUNITIES-22c55e?style=for-the-badge&labelColor=0d1117&color=22c55e" alt="Open to Global and Remote Opportunities"/>
 
 </div>
 
@@ -130,13 +129,15 @@
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Areeba-Tahir-18&theme=github-dark-blue&hide_border=true&background=0d1117&ring=22c55e&fire=4ade80&currStreakLabel=4ade80" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Areeba-Tahir-18&theme=github-dark-blue&hide_border=true&background=0d1117&ring=22c55e&fire=4ade80&currStreakLabel=4ade80" alt="GitHub Streak"/>
 
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Areeba-Tahir-18&theme=github-compact&hide_border=true&bg_color=0d1117&color=4ade80&line=22c55e&point=ffffff&area=true&area_color=22c55e" alt="Contribution Graph" width="95%"/>
 
 </div>
+
+> ⚠️ **Note on live stats:** the cards above pull from the free public `github-readme-stats.vercel.app` instance, which the maintainer has paused intermittently due to hosting cost/rate-limit issues — this breaks the cards for everyone on GitHub using the default endpoint, not just this repo. The project's own docs now recommend **self-hosting** for reliability. See the `self-hosted-stats-workflow.yml` file below for a drop-in GitHub Action that generates these cards inside your own repo on a daily schedule, so they never depend on a third party's uptime again.
 
 <br/>
 
@@ -155,3 +156,4 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2e1a,100:0d1a0d&height=100&section=footer" width="100%"/>
+
